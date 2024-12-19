@@ -1,5 +1,5 @@
 # Tensorflow
-This repository contains materials from the 'TensorFlow Developer Professional Certificate' course on Coursera.
+This repository contains materials from the "TensorFlow Developer Professional Certificate" course on Coursera.
 
 ## Contents
 ### 1. Introduction to TensorFlow
